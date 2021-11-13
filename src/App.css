@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "NewSuperMarioFontU";
-  src: local("NewSuperMarioFontU"),
-    url("./fonts/NewSuperMarioFontU.ttf") format("truetype");
+  font-family: "PressStart2P-Regular";
+  src: local("PressStart2P-Regular"),
+    url("./fonts/Press_Start_2P/PressStart2P-Regular.ttf") format("truetype");
   font-weight: bold;
 }

@@ -68,7 +68,7 @@
 } */
 
 .line-1 {
-  font-family: "Press Start 2P" !important;
+  font-family: "PressStart2P-Regular" !important;
   font-size: 50px !important;
   margin: 0 auto;
   color: #000000 !important;
@@ -116,7 +116,7 @@
 }
 
 .anim-typewriter2 {
-  font-family: "Press Start 2P" !important;
+  font-family: "PressStart2P-Regular" !important;
   animation: typewriter2 2s steps(44) 1s 1 normal both,
     blinkTextCursor2 500ms steps(44) infinite normal;
 }
