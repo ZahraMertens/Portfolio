@@ -17,7 +17,7 @@ export default function Home() {
                 <h1 className="hero-header line-2 anim-typewriter2">
                   I am <span className="span-line2">Zahra</span>.
                 </h1>
-                <p className="hero-header line-3 anim-typewriter3">
+                <p className="hero-header line-3 anim-typewriter3 font-face-gm">
                   <span className="span-home-1">I'm</span><span className="span-home-2"> a</span> <span className="span-home-3">full-stack</span> <span className="span-home-4">web</span> <span className="span-home-5">developer</span>.
                 </p>
               </div>

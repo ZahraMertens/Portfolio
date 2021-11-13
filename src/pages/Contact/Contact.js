@@ -12,7 +12,7 @@ export default function Contact() {
           <div className="contact-header-container">
             <div className="row justify-content-center">
               <div className="col-xxl-2 col-xl-3 col-lg-4 col-md-4 col-sm-5 col-xs-6 col-8">
-                <p className="contact-header">Contact</p>
+                <p className="contact-header font-face-gm">Contact</p>
               </div>
             </div>
           </div>
@@ -27,7 +27,7 @@ export default function Contact() {
                     <a href="https://www.linkedin.com/in/zahra-marie-mertens-0399771a3/">
                       <FaLinkedin size={42} className="contact-icon contact-icon1" />
                     </a>
-                    <p className="header-contact-icon">Zahra-Marie Mertens</p>
+                    <p className="header-contact-icon font-face-gm">Zahra-Marie Mertens</p>
                   </div>
                 </div>
                 <div className="row justify-content-center">
@@ -35,7 +35,7 @@ export default function Contact() {
                     <a href="mailto:mertens.zahra@gmail.com">
                       <FaEnvelope size={42} className="contact-icon contact-icon2" />
                     </a>
-                    <p className="header-contact-icon">mertens.zahra@gmail.com</p>
+                    <p className="header-contact-icon font-face-gm">mertens.zahra@gmail.com</p>
                   </div>
                 </div>
                 <div className="row justify-content-center">
@@ -43,7 +43,7 @@ export default function Contact() {
                     <a href="https://github.com/ZahraMertens">
                       <FaGithub size={42} className="contact-icon contact-icon3" />
                     </a>
-                    <p className="header-contact-icon">Zahra Mertens</p>
+                    <p className="header-contact-icon font-face-gm">Zahra Mertens</p>
                   </div>
                 </div>
               </div>

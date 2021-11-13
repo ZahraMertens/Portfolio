@@ -1,4 +1,9 @@
-@import url('http://fonts.cdnfonts.com/css/new-super-mario-font-u');
+@font-face {
+font-family: "NewSuperMarioFontU";
+src: local("NewSuperMarioFontU"),
+ url('./fonts/NewSuperMarioFontU.ttf') format("truetype");
+font-weight: bold;
+}
 
 body {
   margin: 0;

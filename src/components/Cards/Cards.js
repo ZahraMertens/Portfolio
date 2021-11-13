@@ -12,7 +12,7 @@ export default function Cards(props) {
             alt="Project"
           />
           <div className="card-body">
-            <h5 className="card-title">{card.title}</h5>
+            <h5 className="card-title font-face-gm">{card.title}</h5>
             <p className="card-text">{card.describtion}</p>
             <a href={card.GitUrl} className="btn btn-project btn-project1">
               GitHub Repository

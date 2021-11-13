@@ -23,8 +23,8 @@ export default function Header({ currentPage, handlePageChange }) {
             // If it is, we set the current page to 'nav-link-active', otherwise we set it to 'nav-link'
             className={
               currentPage === "Home"
-                ? "nav-link active active-link"
-                : "nav-link nav-link-1"
+                ? "nav-link active active-link font-face-gm"
+                : "nav-link nav-link-1 font-face-gm"
             }
           >
             Home
@@ -37,8 +37,8 @@ export default function Header({ currentPage, handlePageChange }) {
             // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
             className={
               currentPage === "About"
-                ? "nav-link active active-link"
-                : "nav-link nav-link-2"
+                ? "nav-link active active-link font-face-gm"
+                : "nav-link nav-link-2 font-face-gm"
             }
           >
             About
@@ -51,8 +51,8 @@ export default function Header({ currentPage, handlePageChange }) {
             // Check to see if the currentPage is `Blog`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
             className={
               currentPage === "Projects"
-                ? "nav-link active active-link"
-                : "nav-link nav-link-3"
+                ? "nav-link active active-link font-face-gm"
+                : "nav-link nav-link-3 font-face-gm"
             }
           >
             Projects
@@ -65,8 +65,8 @@ export default function Header({ currentPage, handlePageChange }) {
             // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
             className={
               currentPage === "Contact"
-                ? "nav-link active active-link"
-                : "nav-link nav-link-4"
+                ? "nav-link active active-link font-face-gm"
+                : "nav-link nav-link-4 font-face-gm"
             }
           >
             Contact
@@ -79,8 +79,8 @@ export default function Header({ currentPage, handlePageChange }) {
             // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
             className={
               currentPage === "Resume"
-                ? "nav-link active active-link"
-                : "nav-link nav-link-5"
+                ? "nav-link active active-link font-face-gm"
+                : "nav-link nav-link-5 font-face-gm"
             }
           >
             Resume

@@ -16,7 +16,7 @@ export default function About() {
           <div className="about-header-container">
             <div className="row justify-content-center">
               <div className="col-xxl-2 col-xl-3 col-lg-4 col-md-4 col-sm-5 col-xs-6 col-8">
-                <h1 className="about-header">About</h1>
+                <h1 className="about-header font-face-gm">About</h1>
               </div>
             </div>
           </div>
@@ -29,7 +29,7 @@ export default function About() {
                   </div>
                 </div>
                 <div className="icon-text-div">
-                  <h1 className="icon-header">User friendly</h1>
+                  <h1 className="icon-header font-face-gm">User friendly</h1>
                   <p className="icon-text">
                     Passionate about creating user friendly UX/UI designs.
                   </p>
@@ -42,7 +42,7 @@ export default function About() {
                   </div>
                 </div>
                 <div className="icon-text-div">
-                  <h1 className="icon-header">Performance</h1>
+                  <h1 className="icon-header font-face-gm">Performance</h1>
                   <p className="icon-text">
                     Performance is everything! Synergy between frontend and
                     backend leads to an awesome website.
@@ -56,7 +56,7 @@ export default function About() {
                   </div>
                 </div>
                 <div className="icon-text-div">
-                  <h1 className="icon-header">Responsive</h1>
+                  <h1 className="icon-header font-face-gm">Responsive</h1>
                   <p className="icon-text">
                     My applications will be responsive and work large and small
                     devices.
@@ -70,7 +70,7 @@ export default function About() {
                   </div>
                 </div>
                 <div className="icon-text-div">
-                  <h1 className="icon-header">Unique</h1>
+                  <h1 className="icon-header font-face-gm">Unique</h1>
                   <p className="icon-text">
                     I love designing unique interfaces which stand out.
                   </p>

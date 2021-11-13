@@ -86,7 +86,7 @@ export default function Projects() {
           <div className="projects-header-container">
             <div className="row justify-content-center">
               <div className="col-xxl-2 col-xl-3 col-lg-4 col-md-4 col-sm-5 col-xs-6 col-8">
-                <p className="projects-header">Projects</p>
+                <p className="projects-header font-face-gm">Projects</p>
               </div>
             </div>
           </div>

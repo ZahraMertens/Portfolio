@@ -26,7 +26,7 @@ export default function Resume() {
             <div className="resume-header-container">
               <div className="row justify-content-center">
                 <div className="col-xxl-2 col-xl-3 col-lg-4 col-md-4 col-sm-5 col-xs-6 col-8">
-                  <p className="resume-header">Resume</p>
+                  <p className="resume-header font-face-gm">Resume</p>
                 </div>
               </div>
             </div>
@@ -46,14 +46,14 @@ export default function Resume() {
             <div className="proficiencies-header-container">
               <div className="row justify-content-center">
                 <div className="col-xxl-2 col-xl-3 col-lg-4 col-md-4 col-sm-5 col-xs-6 col-8">
-                  <p className="proficiencies-header">Proficiencies</p>
+                  <p className="proficiencies-header font-face-gm">Proficiencies</p>
                 </div>
               </div>
             </div>
             <div className="proficiencies-container">
               <div className="row justify-content-center">
                 <div className="col-xxl col-xl col-lg col-md-6 col-sm-6 col-xs-12 col-12">
-                  <h1 className="subheader-resume">Frontend</h1>
+                  <h1 className="subheader-resume font-face-gm">Frontend</h1>
                   <p>
                     <FaHtml5 /> HTML
                   </p>
@@ -80,7 +80,7 @@ export default function Resume() {
                   </p>
                 </div>
                 <div className="col-xxl col-xl col-lg col-md-6 col-sm-6 col-xs-12 col-12">
-                  <h1 className="subheader-resume">Backend</h1>
+                  <h1 className="subheader-resume font-face-gm">Backend</h1>
                   <p>
                     <FaNode /> Node.js, Express.js
                   </p>
@@ -110,7 +110,7 @@ export default function Resume() {
                   </p>
                 </div>
                 <div className="col-xxl col-xl col-lg col-md-6 col-sm-6 col-xs-12 col-12">
-                  <h1 className="subheader-resume">Dev Tools</h1>
+                  <h1 className="subheader-resume font-face-gm">Dev Tools</h1>
                   <p>
                     <FaCode /> GitHub, GitLab
                   </p>
@@ -134,7 +134,7 @@ export default function Resume() {
                   </p>
                 </div>
                 <div className="col-xxl col-xl col-lg col-md-6 col-sm-6 col-xs-12 col-12">
-                  <h1 className="subheader-resume">Database</h1>
+                  <h1 className="subheader-resume font-face-gm">Database</h1>
                   <p>
                     <FaDatabase /> MySQL, Sequelize
                   </p>
