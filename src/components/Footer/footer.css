@@ -1,0 +1,43 @@
+footer {
+  height: 400px;
+  background-image: url(../../assets/images/footer.png);
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: 20;
+  color: white;
+}
+
+.footerContent {
+  text-align: center !important;
+}
+
+.footer-wrapper {
+  padding-top: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
+
+.paperImage {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0px;
+  z-index: 3;
+}
+
+.FooterHeader {
+  font-size: 40px !important;
+  margin-top: 30px !important;
+}
+
+.footer-icon {
+  color: rgb(255, 187, 0);
+  margin: 20px;
+  transition: 0.3s;
+}
+
+.footer-icon:hover {
+  color: #ffb20a;
+}

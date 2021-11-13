@@ -1,0 +1,109 @@
+.aboutPage {
+  height: 100vh;
+  margin-top: 180px;
+  background-image: url(../../assets/images/aboutBG.png);
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-bottom: 50px;
+}
+
+.about-wrapper {
+  width: 95% !important;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.about-header-container {
+  margin-bottom: 30px;
+}
+
+.about-header {
+  font-family: "New Super Mario Font U";
+  font-size: 60px !important;
+  border-bottom: solid 4px #5179ff;
+}
+
+.allIcons-container {
+  width: 60% !important;
+}
+
+.skill-icon {
+  color: #ffb20a;
+}
+
+.icon1 {
+  color: rgb(92, 115, 192) !important;
+}
+
+.icon2 {
+  color: rgb(255, 30, 0) !important;
+}
+
+.icon3 {
+  color: rgb(66, 155, 39) !important;
+}
+
+.icon4 {
+  color: rgb(255, 30, 0) !important;
+}
+
+.icon-text-div {
+  margin-top: 30px;
+}
+
+.icon-header {
+  font-size: 25px;
+  font-family: "New Super Mario Font U";
+}
+
+.about-container {
+  padding: 50px !important;
+  width: 90% !important;
+  margin-top: 50px!important;
+  z-index: 2;
+}
+
+.about-text {
+  font-size: 24px !important;
+}
+
+.glass-container {
+  box-shadow: 0 5px 15px rgba(179, 179, 179, 0.5);
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 20px !important;
+  z-index: 3;
+  box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px!important;
+}
+
+.about-portrait {
+  width: 400px;
+}
+
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+  .glass-container {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(5px);
+  }
+}
+
+.about-span {
+  background-color: rgb(184, 221, 255) !important;
+}
+
+.portait {
+  width: 300px !important;
+  border-radius: 10px;
+}
+
+.container-portrait {
+  padding: 0px !important;
+}
+
+@media (max-width: 1097px) {
+  .allIcons-container {
+    width: 90% !important;
+  }
+}
