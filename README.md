@@ -1,5 +1,4 @@
 # My Portfolio
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 <img src="https://github.com/ZahraMertens/Portfolio/blob/main/src/assets/images/logo.png"/>
 
 ## General Information
@@ -13,8 +12,7 @@ The deployed webpage is my professional portfolio as a web developer to introduc
 1. [General Information](#general-informaion)
 2. [Task Description](#task-description)
 4. [Technology used](#technology-used)
-5. [Mock-Up](#mock-up)
-6. [Credits](#credits)
+5. [Credits](#credits)
 
 
 ## User Story
@@ -33,11 +31,6 @@ The portfolio displays useful data, showcases skills and technologies of the web
 * React
 
 **Note** In the future I'd like to exchange getform with php get method
-
-
-## Mock-Up
-
-The following GIF shows the web applications apperance and functionality:
 
 
 ## Credits
