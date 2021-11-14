@@ -1,7 +1,7 @@
 @import url('http://fonts.cdnfonts.com/css/new-super-mario-font-u');
 
 .aboutPage {
-  height: 100vh;
+  height: 100%;
   margin-top: 180px;
   background-image: url(../../assets/images/aboutBG.png);
   -moz-background-size: cover;
@@ -104,8 +104,42 @@
   padding: 0px !important;
 }
 
-@media (max-width: 1097px) {
+@media (max-width: 1415px) {
   .allIcons-container {
-    width: 90% !important;
+    width: 80% !important;
+  }
+
+  .about-container{
+    width: 80%!important;
+  }
+}
+
+@media (max-width: 615px) {
+  .portait {
+    width: 250px !important;
+  }
+
+  .about-text{
+    font-size: 20px!important;
+  }
+}
+
+@media (max-width: 578px) {
+  .icon-header{
+    font-size: 23px!important;
+  }
+
+  .icon-text {
+    font-size: 18px!important;
+  }
+}
+
+@media (max-width: 420px) {
+  .portait {
+    width: 200px !important;
+  }
+
+  .about-text{
+    font-size: 16px!important;
   }
 }

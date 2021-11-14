@@ -175,14 +175,28 @@
 
 /* Responsive Layout: */
 
-@media (max-width: 620px) {
+@media (max-width: 1030px) {
+  .homePage {
+    height: 100vh;
+    background-image: url(../../assets/images/heroPeachXS.png);
+  }
+}
+
+@media (max-width: 733px) {
+  .homePage {
+    height: 100vh;
+    background-image: url(../../assets/images/heroPeachXXS.png);
+  }
+}
+
+@media (max-width: 683px) {
   .line-2,
   .line-1 {
-    font-size: 55px !important;
+    font-size: 40px !important;
   }
 
   .line-3 {
-    font-size: 25px !important;
+    font-size: 30px !important;
   }
 
   .type-write-wrapper {
@@ -190,13 +204,28 @@
   }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 540px) {
   .line-2,
   .line-1 {
-    font-size: 45px !important;
+    font-size: 30px !important;
   }
 
   .line-3 {
+    font-size: 25px !important;
+  }
+
+  .peach-gif{
+    width: 150px!important;
+  }
+}
+
+@media (max-width: 420px) {
+  .line-2,
+  .line-1 {
     font-size: 20px !important;
+  }
+
+  .line-3 {
+    font-size: 15px !important;
   }
 }

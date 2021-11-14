@@ -15,14 +15,14 @@ export default function About() {
         <div className="row justify-content-center">
           <div className="about-header-container">
             <div className="row justify-content-center">
-              <div className="col-xxl-2 col-xl-3 col-lg-4 col-md-4 col-sm-5 col-xs-6 col-8">
+              <div className="col-xxl-2 col-xl-3 col-lg-3 col-md-4 col-sm-5 col-xs-5 col-8">
                 <h1 className="about-header font-face-gm">About</h1>
               </div>
             </div>
           </div>
           <div className="allIcons-container glass-container">
             <div className="row">
-              <div className="col">
+              <div className="col-xxl-3 col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 col-12">
                 <div className="skill-container">
                   <div className="icon-div">
                     <FaSmileWink size={42} className="icon1" />
@@ -35,7 +35,7 @@ export default function About() {
                   </p>
                 </div>
               </div>
-              <div className="col">
+              <div className="col-xxl-3 col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 col-12">
                 <div className="skill-container">
                   <div className="icon-div">
                     <FaBalanceScale size={42} className="icon2" />
@@ -49,7 +49,7 @@ export default function About() {
                   </p>
                 </div>
               </div>
-              <div className="col">
+              <div className="col-xxl-3 col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 col-12">
                 <div className="skill-container">
                   <div className="icon-div">
                     <FaMobileAlt size={42} className="icon3" />
@@ -63,7 +63,7 @@ export default function About() {
                   </p>
                 </div>
               </div>
-              <div className="col">
+              <div className="col-xxl-3 col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xs-12 col-12">
                 <div className="skill-container">
                   <div className="icon-div">
                     <FaLightbulb size={42} className="icon4" />

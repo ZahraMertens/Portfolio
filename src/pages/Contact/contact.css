@@ -17,7 +17,6 @@
 
 .peachcar {
   position: absolute;
-  /* position: fixed;  */
   width: 200px !important;
   bottom: 0px;
   left: 10%;
@@ -29,7 +28,7 @@
   border-radius: 5px;
   background: rgba(255, 255, 255, 0.74);
   padding: 20px !important;
-  z-index: 3;
+  z-index: 1020;
 }
 
 @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
@@ -108,6 +107,12 @@ p {
 @media (max-width: 1250px) {
   .form-container {
     width: 80%;
+  }
+}
+
+@media (max-width: 992px) {
+  .contactPage {
+    height: 100%;
   }
 }
 
