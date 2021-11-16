@@ -1,5 +1,6 @@
 .homePage {
   height: 100vh;
+  margin-top: 100px;
   background-image: url(../../assets/images/heroPeach.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -52,20 +53,8 @@
   width: 700px;
   z-index: 1;
   margin-top: 220px !important;
-  /* box-shadow: 0 5px 15px rgba(255, 255, 255, 0.5); */
   border-radius: 5px;
-  /* background-image: url(../../assets/images/boxes.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: top; */
 }
-
-/* @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
-  .type-write-wrapper {
-    -webkit-backdrop-filter: blur(10px);
-    backdrop-filter: blur(10px);
-  }
-} */
 
 .line-1 {
   font-family: "PressStart2P-Regular" !important;
@@ -180,12 +169,24 @@
     height: 100vh;
     background-image: url(../../assets/images/heroPeachXS.png);
   }
+
+  .peach-gif {
+    left: 0;
+  }
+
+  .type-write-wrapper {
+    margin-top: 80px !important;
+  }
 }
 
 @media (max-width: 733px) {
   .homePage {
     height: 100vh;
     background-image: url(../../assets/images/heroPeachXXS.png);
+  }
+
+  .peach-gif {
+    width: 150px !important;
   }
 }
 
