@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2892a397.chunk.css",
+    "main.css": "/Portfolio/static/css/main.d19dbef1.chunk.css",
     "main.js": "/Portfolio/static/js/main.2fd026bb.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.2fd026bb.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.5d68f097.js",
@@ -10,7 +10,7 @@
     "static/js/2.710f7208.chunk.js.map": "/Portfolio/static/js/2.710f7208.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.383c0125.chunk.css.map": "/Portfolio/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.2892a397.chunk.css.map": "/Portfolio/static/css/main.2892a397.chunk.css.map",
+    "static/css/main.d19dbef1.chunk.css.map": "/Portfolio/static/css/main.d19dbef1.chunk.css.map",
     "static/js/2.710f7208.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.710f7208.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Portfolio/static/media/NewSuperMarioFontU.ea267790.ttf",
     "static/media/App.css": "/Portfolio/static/media/PressStart2P-Regular.5f45b521.ttf",
@@ -21,7 +21,7 @@
     "static/media/fitness-tracker.f349264b.gif": "/Portfolio/static/media/fitness-tracker.f349264b.gif",
     "static/media/footer.css": "/Portfolio/static/media/footer.c0a56281.png",
     "static/media/granny-crush.c84509ff.gif": "/Portfolio/static/media/granny-crush.c84509ff.gif",
-    "static/media/home.css": "/Portfolio/static/media/heroPeachXXXS.30bc3230.png",
+    "static/media/home.css": "/Portfolio/static/media/heroPeachXXXS.8169491b.png",
     "static/media/logo.0f170332.png": "/Portfolio/static/media/logo.0f170332.png",
     "static/media/maario.41c95a80.gif": "/Portfolio/static/media/maario.41c95a80.gif",
     "static/media/contact.css": "/Portfolio/static/media/mariocard.1d2d079f.png",
@@ -39,7 +39,7 @@
     "static/js/runtime-main.5d68f097.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.710f7208.chunk.js",
-    "static/css/main.2892a397.chunk.css",
+    "static/css/main.d19dbef1.chunk.css",
     "static/js/main.2fd026bb.chunk.js"
   ]
 }
